@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@guidepup/guidepup": "^0.24.0",
+    "@guidepup/playwright": "^0.14.2",
+    "@playwright/test": "^1.51.0"
+  }
+}
